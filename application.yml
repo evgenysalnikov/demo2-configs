@@ -1,5 +1,5 @@
 my:
-  greeting: Hello from demo2!
+  greeting: Hello from demo2 changed!
 
 db:
   connection: conection string
