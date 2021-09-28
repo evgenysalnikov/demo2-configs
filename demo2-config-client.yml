@@ -1,2 +1,2 @@
 my:
-  greeting: Hello from demo2 config by service name!
+  greeting: Hello from demo2 config by application name!
