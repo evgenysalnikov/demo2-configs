@@ -1,2 +1,1 @@
-my:
-  greeting: Hello from k8s mf!
+my.greeting: "foo bar"
