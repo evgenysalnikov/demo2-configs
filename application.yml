@@ -1,0 +1,7 @@
+my:
+  greeting: Hello from demo2!
+
+db:
+  connection: conection string
+  user: username
+  password: somepassword
